@@ -1,0 +1,10 @@
+package hola_mundo2;
+
+public class Holamundo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
